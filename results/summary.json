@@ -1,0 +1,173 @@
+{
+  "model": "qwen2.5:3b",
+  "overhead_tokens": 24,
+  "overall": {
+    "english": {
+      "calls": 50,
+      "input_tokens": 2042,
+      "content_tokens": 842,
+      "output_tokens": 1680,
+      "input_cost_usd": 0.00030629999999999996,
+      "output_cost_usd": 0.001008,
+      "cost_usd": 0.0013143,
+      "latency_mean_s": 1.360016,
+      "latency_median_s": 0.61035,
+      "latency_total_s": 68.0008,
+      "truncated_calls": 1
+    },
+    "bangla": {
+      "calls": 50,
+      "input_tokens": 5052,
+      "content_tokens": 3852,
+      "output_tokens": 6443,
+      "input_cost_usd": 0.0007578,
+      "output_cost_usd": 0.0038658,
+      "cost_usd": 0.004623599999999999,
+      "latency_mean_s": 5.169586,
+      "latency_median_s": 3.5543,
+      "latency_total_s": 258.4793,
+      "truncated_calls": 11
+    },
+    "input_ratio": 2.474045053868756,
+    "content_ratio": 4.574821852731591,
+    "output_ratio": 3.8351190476190475,
+    "total_cost_ratio": 3.517918283496918,
+    "latency_ratio": 3.801121457394619
+  },
+  "per_pair": {
+    "input_ratio": {
+      "n": 50,
+      "mean": 2.304028605700323,
+      "median": 2.190524193548387,
+      "min": 1.1176470588235294,
+      "max": 4.061538461538461,
+      "ci95_low": 2.1060569271754854,
+      "ci95_high": 2.51085929151642
+    },
+    "content_ratio": {
+      "n": 50,
+      "mean": 4.47944474430637,
+      "median": 4.637330754352031,
+      "min": 1.4,
+      "max": 8.714285714285714,
+      "ci95_low": 4.071800304907909,
+      "ci95_high": 4.90511244936232
+    },
+    "output_ratio": {
+      "n": 50,
+      "mean": 7.088345632076436,
+      "median": 5.2023809523809526,
+      "min": 1.0,
+      "max": 25.6,
+      "ci95_low": 5.581514908522411,
+      "ci95_high": 8.782245829541719
+    },
+    "total_cost_ratio": {
+      "n": 50,
+      "mean": 4.790579929508733,
+      "median": 4.0058198748726905,
+      "min": 1.156164383561644,
+      "max": 15.013888888888888,
+      "ci95_low": 4.005030063164881,
+      "ci95_high": 5.6604465121417205
+    }
+  },
+  "by_category": [
+    {
+      "category": "question",
+      "n": 9,
+      "input_ratio_mean": 1.6907129296729067,
+      "content_ratio_mean": 3.68505291005291,
+      "output_ratio_mean": 12.118925108022472,
+      "total_cost_ratio_mean": 7.654467283378444,
+      "bn_latency_over_en_mean": 10.6318321579449
+    },
+    {
+      "category": "instruction",
+      "n": 8,
+      "input_ratio_mean": 2.1240130775068167,
+      "content_ratio_mean": 5.235615079365079,
+      "output_ratio_mean": 7.129807310744811,
+      "total_cost_ratio_mean": 5.118557733947976,
+      "bn_latency_over_en_mean": 6.5513566840302655
+    },
+    {
+      "category": "explanation",
+      "n": 8,
+      "input_ratio_mean": 2.3308040420469265,
+      "content_ratio_mean": 6.080772005772006,
+      "output_ratio_mean": 6.1038130969826225,
+      "total_cost_ratio_mean": 5.177250923739203,
+      "bn_latency_over_en_mean": 5.838358096632888
+    },
+    {
+      "category": "arithmetic",
+      "n": 9,
+      "input_ratio_mean": 1.542273874830068,
+      "content_ratio_mean": 2.455103066867773,
+      "output_ratio_mean": 6.786315536315536,
+      "total_cost_ratio_mean": 3.3224751250520415,
+      "bn_latency_over_en_mean": 5.281671383551922
+    },
+    {
+      "category": "summarise",
+      "n": 8,
+      "input_ratio_mean": 2.768808364254793,
+      "content_ratio_mean": 4.710789210789211,
+      "output_ratio_mean": 5.742347756410257,
+      "total_cost_ratio_mean": 4.267611088309422,
+      "bn_latency_over_en_mean": 5.373656058409126
+    },
+    {
+      "category": "long",
+      "n": 8,
+      "input_ratio_mean": 3.5394431467526366,
+      "content_ratio_mean": 5.0616778819527495,
+      "output_ratio_mean": 4.057796311459775,
+      "total_cost_ratio_mean": 3.0286446039486883,
+      "bn_latency_over_en_mean": 3.3084877257119913
+    }
+  ],
+  "extremes_content_ratio": {
+    "max": {
+      "id": "23",
+      "category": "explanation",
+      "en_input": 31,
+      "bn_input": 85,
+      "en_content": 7,
+      "bn_content": 61,
+      "en_output": 18,
+      "bn_output": 145,
+      "en_cost_usd": 1.545e-05,
+      "bn_cost_usd": 9.975e-05,
+      "input_ratio": 2.7419354838709675,
+      "content_ratio": 8.714285714285714,
+      "output_ratio": 8.055555555555555,
+      "total_cost_ratio": 6.456310679611651,
+      "en_latency_s": 0.7785,
+      "bn_latency_s": 6.1265,
+      "en_truncated": false,
+      "bn_truncated": false
+    },
+    "min": {
+      "id": "26",
+      "category": "arithmetic",
+      "en_input": 34,
+      "bn_input": 38,
+      "en_content": 10,
+      "bn_content": 14,
+      "en_output": 11,
+      "bn_output": 41,
+      "en_cost_usd": 1.17e-05,
+      "bn_cost_usd": 3.0299999999999998e-05,
+      "input_ratio": 1.1176470588235294,
+      "content_ratio": 1.4,
+      "output_ratio": 3.727272727272727,
+      "total_cost_ratio": 2.5897435897435894,
+      "en_latency_s": 0.4778,
+      "bn_latency_s": 1.6886,
+      "en_truncated": false,
+      "bn_truncated": false
+    }
+  }
+}

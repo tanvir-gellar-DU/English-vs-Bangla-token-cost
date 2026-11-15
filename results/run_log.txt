@@ -1,0 +1,116 @@
+  1 english in=31   out=8     0.42s
+  1 bangla  in=45   out=95    3.86s
+  2 bangla  in=45   out=88    3.54s
+  2 english in=34   out=13    0.58s
+  3 english in=32   out=10    0.45s
+  3 bangla  in=68   out=213   8.39s
+  4 bangla  in=57   out=256  10.20s TRUNC
+  4 english in=32   out=10    0.48s
+  5 english in=32   out=11    0.50s
+  5 bangla  in=58   out=46    2.00s
+  6 bangla  in=38   out=252   9.72s
+  6 english in=30   out=29    1.16s
+  7 english in=31   out=10    0.42s
+  7 bangla  in=59   out=201   7.98s
+  8 bangla  in=48   out=43    1.66s
+  8 english in=32   out=7     0.32s
+  9 english in=38   out=17    0.73s
+  9 bangla  in=78   out=75    2.97s
+ 10 bangla  in=54   out=68    2.67s
+ 10 english in=31   out=12    0.50s
+ 11 english in=33   out=9     0.39s
+ 11 bangla  in=79   out=175   6.54s
+ 12 bangla  in=71   out=256   9.86s TRUNC
+ 12 english in=33   out=25    1.01s
+ 13 english in=32   out=18    0.79s
+ 13 bangla  in=70   out=50    2.18s
+ 14 bangla  in=54   out=77    3.14s
+ 14 english in=30   out=16    0.64s
+ 15 english in=33   out=3     0.17s
+ 15 bangla  in=73   out=10    0.58s
+ 16 bangla  in=105  out=74    2.99s
+ 16 english in=38   out=13    0.60s
+ 17 english in=31   out=14    0.59s
+ 17 bangla  in=54   out=71    2.72s
+ 18 bangla  in=72   out=121   4.50s
+ 18 english in=35   out=29    1.13s
+ 19 english in=33   out=22    0.89s
+ 19 bangla  in=77   out=204   7.72s
+ 20 bangla  in=77   out=73    2.85s
+ 20 english in=33   out=16    0.63s
+ 21 english in=36   out=26    1.07s
+ 21 bangla  in=88   out=256   9.50s TRUNC
+ 22 bangla  in=68   out=256   9.68s TRUNC
+ 22 english in=31   out=73    3.00s
+ 23 english in=31   out=18    0.78s
+ 23 bangla  in=85   out=145   6.13s
+ 24 bangla  in=77   out=256  10.09s TRUNC
+ 24 english in=31   out=57    2.16s
+ 25 english in=34   out=52    1.96s
+ 25 bangla  in=70   out=256   9.50s TRUNC
+ 26 bangla  in=38   out=41    1.69s
+ 26 english in=34   out=11    0.48s
+ 27 english in=36   out=3     0.18s
+ 27 bangla  in=63   out=42    1.77s
+ 28 bangla  in=38   out=15    0.68s
+ 28 english in=32   out=10    0.43s
+ 29 english in=42   out=10    0.47s
+ 29 bangla  in=81   out=38    1.63s
+ 30 bangla  in=43   out=16    0.68s
+ 30 english in=36   out=3     0.18s
+ 31 english in=41   out=10    0.47s
+ 31 bangla  in=68   out=27    1.20s
+ 32 bangla  in=38   out=21    0.87s
+ 32 english in=32   out=11    0.47s
+ 33 english in=44   out=14    0.62s
+ 33 bangla  in=90   out=89    3.53s
+ 34 bangla  in=67   out=87    3.38s
+ 34 english in=37   out=4     0.22s
+ 35 english in=46   out=9     0.45s
+ 35 bangla  in=126  out=72    3.06s
+ 36 bangla  in=138  out=91    3.80s
+ 36 english in=48   out=12    0.57s
+ 37 english in=46   out=16    0.72s
+ 37 bangla  in=127  out=93    3.87s
+ 38 bangla  in=123  out=70    3.00s
+ 38 english in=45   out=13    0.59s
+ 39 english in=44   out=15    0.66s
+ 39 bangla  in=125  out=65    3.15s
+ 40 bangla  in=123  out=84    3.57s
+ 40 english in=42   out=15    0.67s
+ 41 english in=50   out=8     0.41s
+ 41 bangla  in=132  out=45    2.10s
+ 42 bangla  in=129  out=54    2.43s
+ 42 english in=49   out=15    0.65s
+ 43 english in=71   out=256   9.65s TRUNC
+ 43 bangla  in=242  out=256  10.51s TRUNC
+ 44 bangla  in=215  out=256  10.20s TRUNC
+ 44 english in=59   out=85    3.34s
+ 45 english in=75   out=185   7.13s
+ 45 bangla  in=213  out=256  10.11s TRUNC
+ 46 bangla  in=235  out=256  10.34s TRUNC
+ 46 english in=64   out=203   7.67s
+ 47 english in=65   out=7     0.51s
+ 47 bangla  in=202  out=112   4.91s
+ 48 bangla  in=231  out=234   9.47s
+ 48 english in=59   out=53    2.21s
+ 49 english in=65   out=79    3.28s
+ 49 bangla  in=264  out=250  10.39s
+ 50 bangla  in=231  out=256  11.15s TRUNC
+ 50 english in=63   out=115   4.62s
+{
+  "model": "qwen2.5:3b",
+  "ollama_version": "0.40.16",
+  "system": "You are a helpful assistant. Answer concisely.",
+  "options": {
+    "temperature": 0,
+    "seed": 42,
+    "num_predict": 256
+  },
+  "overhead_tokens": 24,
+  "calls": 100,
+  "wall_time_s": 326.5,
+  "started": "2026-11-14 11:25:54",
+  "truncated_calls": 12,
+  "cache_suspected_calls": 0
+}

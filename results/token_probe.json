@@ -1,0 +1,68 @@
+{
+  "overhead": 24,
+  "rows": [
+    {
+      "english": "inflation",
+      "en_tokens": 2,
+      "en_bytes": 9,
+      "bangla": "মুদ্রাস্ফীতি",
+      "bn_tokens": 14,
+      "bn_bytes": 36,
+      "ratio": 7.0
+    },
+    {
+      "english": "sunlight",
+      "en_tokens": 2,
+      "en_bytes": 8,
+      "bangla": "সূর্যালোক",
+      "bn_tokens": 11,
+      "bn_bytes": 27,
+      "ratio": 5.5
+    },
+    {
+      "english": "Japan",
+      "en_tokens": 1,
+      "en_bytes": 5,
+      "bangla": "জাপান",
+      "bn_tokens": 5,
+      "bn_bytes": 15,
+      "ratio": 5.0
+    },
+    {
+      "english": "the",
+      "en_tokens": 1,
+      "en_bytes": 3,
+      "bangla": "এবং",
+      "bn_tokens": 4,
+      "bn_bytes": 9,
+      "ratio": 4.0
+    },
+    {
+      "english": "15 + 27",
+      "en_tokens": 6,
+      "en_bytes": 7,
+      "bangla": "১৫ + ২৭",
+      "bn_tokens": 10,
+      "bn_bytes": 15,
+      "ratio": 1.67
+    },
+    {
+      "english": "1000",
+      "en_tokens": 4,
+      "en_bytes": 4,
+      "bangla": "১০০০",
+      "bn_tokens": 8,
+      "bn_bytes": 12,
+      "ratio": 2.0
+    },
+    {
+      "english": "Hello",
+      "en_tokens": 1,
+      "en_bytes": 5,
+      "bangla": "হ্যালো",
+      "bn_tokens": 7,
+      "bn_bytes": 18,
+      "ratio": 7.0
+    }
+  ]
+}

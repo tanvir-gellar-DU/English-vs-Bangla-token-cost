@@ -1,0 +1,11 @@
+id,category,english_answer,bangla_answer,bangla_verdict
+1,question,correct (Tokyo),"worse: says Tokyo but in garbled script (stray Thai/Latin characters), then switches to an English note","partly correct, worse"
+3,question,correct (Shakespeare),"wrong: names 'John Shakespeare' / 'Market Shakespeare', invents details",wrong
+4,question,correct (Mercury),"wrong: says the Sun, rambles about Helios/Surya, cut off at 256 tokens",wrong
+6,question,"correct (scattering, short wavelength)",wrong: vague talk about 'natural forces' and water; no scattering,wrong
+12,instruction,correct (2 practical tips),"wrong: repetitive, meaningless tips, cut off at 256 tokens",wrong
+23,explanation,correct definition,wrong: grammatical but meaningless sentence,wrong
+26,arithmetic,correct (42),correct (৪২) + unneeded English note,"correct, verbose"
+29,arithmetic,correct (14),correct (14) but mixes ASCII digits and has a broken character,"correct, less fluent"
+34,arithmetic,correct (643),correct (৬৪৩) but explanation misuses 'sum',"correct answer, flawed explanation"
+47,long,correct (spinach),"correct (spinach), adds invented detail ('her goats')","correct, verbose"

@@ -1,0 +1,94 @@
+{
+  "warm_model_repeats": [
+    {
+      "prompt": "What is the capital of France?",
+      "counts": [
+        31,
+        31,
+        31
+      ],
+      "latencies_s": [
+        0.387,
+        0.293,
+        0.295
+      ],
+      "stable": true,
+      "cache_suspected": false
+    },
+    {
+      "prompt": "ফ্রান্সের রাজধানী কী?",
+      "counts": [
+        47,
+        47,
+        47
+      ],
+      "latencies_s": [
+        3.266,
+        3.21,
+        3.205
+      ],
+      "stable": true,
+      "cache_suspected": false
+    },
+    {
+      "prompt": "Explain photosynthesis in one sentence.",
+      "counts": [
+        32,
+        32,
+        32
+      ],
+      "latencies_s": [
+        1.098,
+        1.012,
+        1.02
+      ],
+      "stable": true,
+      "cache_suspected": false
+    },
+    {
+      "prompt": "এক বাক্যে সালোকসংশ্লেষণ ব্যাখ্যা করো।",
+      "counts": [
+        64,
+        64,
+        64
+      ],
+      "latencies_s": [
+        4.944,
+        4.774,
+        4.929
+      ],
+      "stable": true,
+      "cache_suspected": false
+    }
+  ],
+  "fresh_model_keep_alive_0": [
+    {
+      "prompt": "What is the capital of France?",
+      "counts": [
+        31,
+        31
+      ],
+      "latencies_s": [
+        0.36,
+        2.553
+      ],
+      "stable": true,
+      "cache_suspected": false
+    },
+    {
+      "prompt": "ফ্রান্সের রাজধানী কী?",
+      "counts": [
+        47,
+        47
+      ],
+      "latencies_s": [
+        5.506,
+        5.58
+      ],
+      "stable": true,
+      "cache_suspected": false
+    }
+  ],
+  "warm_equals_fresh": true,
+  "all_stable": true
+}

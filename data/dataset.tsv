@@ -1,0 +1,51 @@
+id	category	english	bangla
+1	question	What is the capital of Japan?	জাপানের রাজধানী কী?
+2	question	How many days are there in a leap year?	অধিবর্ষে কত দিন থাকে?
+3	question	Who wrote the play Romeo and Juliet?	রোমিও অ্যান্ড জুলিয়েট নাটকটি কে লিখেছেন?
+4	question	Which planet is closest to the Sun?	কোন গ্রহ সূর্যের সবচেয়ে কাছে?
+5	question	What is the largest ocean on Earth?	পৃথিবীর বৃহত্তম মহাসাগর কোনটি?
+6	question	Why is the sky blue?	আকাশ নীল কেন?
+7	question	What language is spoken in Brazil?	ব্রাজিলে কোন ভাষায় কথা বলা হয়?
+8	question	How many legs does a spider have?	মাকড়সার কয়টি পা আছে?
+9	question	What is the boiling point of water at sea level in degrees Celsius?	সমুদ্রপৃষ্ঠে পানির স্ফুটনাঙ্ক কত ডিগ্রি সেলসিয়াস?
+10	instruction	List three fruits that are red.	লাল রঙের তিনটি ফলের নাম লেখো।
+11	instruction	Write a short greeting for a birthday card.	জন্মদিনের কার্ডের জন্য একটি ছোট শুভেচ্ছাবার্তা লেখো।
+12	instruction	Give two tips for saving electricity at home.	বাড়িতে বিদ্যুৎ সাশ্রয়ের দুটি পরামর্শ দাও।
+13	instruction	Write one sentence describing a rainy day.	বৃষ্টির দিনের বর্ণনা দিয়ে একটি বাক্য লেখো।
+14	instruction	Name four countries in Europe.	ইউরোপের চারটি দেশের নাম বলো।
+15	instruction	Suggest a name for a pet cat.	একটি পোষা বিড়ালের জন্য একটি নাম প্রস্তাব করো।
+16	instruction	Write a polite sentence asking a teacher for more time to finish homework.	বাড়ির কাজ শেষ করার জন্য শিক্ষকের কাছে আরও সময় চেয়ে একটি বিনীত বাক্য লেখো।
+17	instruction	List the days of the week.	সপ্তাহের দিনগুলোর নাম লেখো।
+18	explanation	Explain what a computer virus is in one sentence.	এক বাক্যে কম্পিউটার ভাইরাস কী তা ব্যাখ্যা করো।
+19	explanation	Briefly explain why we need to sleep.	সংক্ষেপে ব্যাখ্যা করো কেন আমাদের ঘুমের প্রয়োজন।
+20	explanation	What does a thermometer measure? Explain briefly.	থার্মোমিটার কী পরিমাপ করে? সংক্ষেপে ব্যাখ্যা করো।
+21	explanation	Explain the difference between weather and climate in two sentences.	দুই বাক্যে আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য ব্যাখ্যা করো।
+22	explanation	Explain how a rainbow forms.	রংধনু কীভাবে তৈরি হয় তা ব্যাখ্যা করো।
+23	explanation	Briefly explain what inflation means.	মুদ্রাস্ফীতি বলতে কী বোঝায় তা সংক্ষেপে ব্যাখ্যা করো।
+24	explanation	Explain why plants need sunlight.	উদ্ভিদের কেন সূর্যালোক প্রয়োজন তা ব্যাখ্যা করো।
+25	explanation	Explain to a child what the internet is.	একটি শিশুকে ইন্টারনেট কী তা বুঝিয়ে বলো।
+26	arithmetic	What is 15 + 27?	১৫ + ২৭ কত?
+27	arithmetic	What is 144 divided by 12?	১৪৪ কে ১২ দিয়ে ভাগ করলে কত হয়?
+28	arithmetic	What is 8 times 7?	৮ গুণ ৭ কত?
+29	arithmetic	If I have 20 apples and give away 6, how many are left?	আমার কাছে ২০টি আপেল আছে, ৬টি দিয়ে দিলে কয়টি থাকবে?
+30	arithmetic	What is 25% of 200?	২০০-এর ২৫% কত?
+31	arithmetic	A pen costs 12 taka. How much do 5 pens cost?	একটি কলমের দাম ১২ টাকা। ৫টি কলমের দাম কত?
+32	arithmetic	What is the square of 9?	৯-এর বর্গ কত?
+33	arithmetic	A train travels 60 km per hour. How far does it go in 3 hours?	একটি ট্রেন ঘণ্টায় ৬০ কিমি যায়। ৩ ঘণ্টায় এটি কত দূর যাবে?
+34	arithmetic	What is 1000 minus 357?	১০০০ থেকে ৩৫৭ বিয়োগ করলে কত হয়?
+35	summarise	Summarise in a few words: “The meeting was postponed until next Monday because the manager was ill.”	কয়েক শব্দে সারাংশ লেখো: “ম্যানেজার অসুস্থ থাকায় সভাটি আগামী সোমবার পর্যন্ত স্থগিত করা হয়েছে।”
+36	summarise	Summarise this sentence: “Heavy rain flooded several streets in the city, and schools were closed for the day.”	এই বাক্যটির সারাংশ লেখো: “ভারী বৃষ্টিতে শহরের কয়েকটি রাস্তা প্লাবিত হয়েছে এবং সেদিন স্কুলগুলো বন্ধ ছিল।”
+37	summarise	Summarise: “The new library has more than ten thousand books and is open every day except Friday.”	সারাংশ লেখো: “নতুন গ্রন্থাগারে দশ হাজারেরও বেশি বই আছে এবং এটি শুক্রবার ছাড়া প্রতিদিন খোলা থাকে।”
+38	summarise	Give a one-line summary: “After months of practice, the team finally won the national football championship.”	এক লাইনে সারাংশ দাও: “কয়েক মাস অনুশীলনের পর দলটি অবশেষে জাতীয় ফুটবল চ্যাম্পিয়নশিপ জিতেছে।”
+39	summarise	Summarise this sentence: “Doctors recommend drinking enough water and walking for thirty minutes every day.”	এই বাক্যটির সারাংশ লেখো: “চিকিৎসকেরা প্রতিদিন পর্যাপ্ত পানি পান এবং ত্রিশ মিনিট হাঁটার পরামর্শ দেন।”
+40	summarise	Summarise: “The company launched a cheaper phone to attract students and young workers.”	সারাংশ লেখো: “শিক্ষার্থী ও তরুণ কর্মীদের আকৃষ্ট করতে কোম্পানিটি একটি সস্তা ফোন বাজারে এনেছে।”
+41	summarise	Summarise in five words or fewer: “The bridge was closed for repairs, so drivers had to take a longer route.”	পাঁচ বা তার কম শব্দে সারাংশ লেখো: “মেরামতের জন্য সেতুটি বন্ধ থাকায় চালকদের দীর্ঘ পথ ঘুরে যেতে হয়েছে।”
+42	summarise	Summarise this sentence: “Farmers in the village are using solar pumps to water their fields during the dry season.”	এই বাক্যটির সারাংশ লেখো: “গ্রামের কৃষকেরা শুষ্ক মৌসুমে জমিতে সেচ দিতে সৌরচালিত পাম্প ব্যবহার করছেন।”
+43	long	I am planning a trip to Cox's Bazar next month. I will stay for three days with my family. We want to see the beach and try local seafood. What should we pack, and what should we be careful about?	আমি আগামী মাসে কক্সবাজার ভ্রমণের পরিকল্পনা করছি। আমি পরিবারের সঙ্গে তিন দিন থাকব। আমরা সমুদ্রসৈকত দেখতে এবং স্থানীয় সামুদ্রিক খাবার খেতে চাই। আমাদের কী কী সঙ্গে নেওয়া উচিত এবং কোন বিষয়ে সতর্ক থাকা উচিত?
+44	long	My little brother is starting school next week. He is nervous and does not want to go. He likes drawing and playing football. How can I help him feel more confident?	আমার ছোট ভাই আগামী সপ্তাহে স্কুলে যাওয়া শুরু করবে। সে ভয় পাচ্ছে এবং যেতে চাইছে না। সে ছবি আঁকতে আর ফুটবল খেলতে পছন্দ করে। আমি কীভাবে তাকে আরও আত্মবিশ্বাসী হতে সাহায্য করতে পারি?
+45	long	A shop sells rice for 60 taka per kilogram. Rahim buys 5 kilograms and pays with a 500 taka note. The shopkeeper gives him change. How much change does Rahim get? Show your steps.	একটি দোকানে চাল প্রতি কেজি ৬০ টাকায় বিক্রি হয়। রহিম ৫ কেজি চাল কেনে এবং ৫০০ টাকার একটি নোট দেয়। দোকানদার তাকে বাকি টাকা ফেরত দেয়। রহিম কত টাকা ফেরত পায়? ধাপগুলো দেখাও।
+46	long	I want to start exercising, but I only have twenty minutes each morning. I do not have any equipment at home. I also have a slight knee pain. Suggest a simple routine for me.	আমি ব্যায়াম শুরু করতে চাই, কিন্তু প্রতিদিন সকালে আমার হাতে মাত্র বিশ মিনিট সময় থাকে। বাড়িতে আমার কোনো ব্যায়ামের সরঞ্জাম নেই। আমার হাঁটুতে একটু ব্যথাও আছে। আমার জন্য একটি সহজ রুটিন প্রস্তাব করো।
+47	long	Read the text and answer the question. Mina has a small garden. She grows tomatoes, chillies and spinach. Last week, goats ate most of her spinach. Which vegetable did Mina lose?	লেখাটি পড়ে প্রশ্নের উত্তর দাও। মিনার একটি ছোট বাগান আছে। সে টমেটো, মরিচ আর পালংশাক চাষ করে। গত সপ্তাহে ছাগল তার বেশিরভাগ পালংশাক খেয়ে ফেলেছে। মিনা কোন সবজিটি হারিয়েছে?
+48	long	Our office wants to reduce paper use. Many staff still print every email. We have a shared drive, but few people use it. Write three short rules we could introduce.	আমাদের অফিস কাগজের ব্যবহার কমাতে চায়। অনেক কর্মী এখনও প্রতিটি ইমেইল প্রিন্ট করেন। আমাদের একটি শেয়ারড ড্রাইভ আছে, কিন্তু খুব কম মানুষ তা ব্যবহার করেন। আমরা চালু করতে পারি এমন তিনটি ছোট নিয়ম লেখো।
+49	long	Climate change is causing sea levels to rise. Low-lying countries like Bangladesh face more floods. Many people may have to leave their homes. Explain in simple words what can be done to reduce this risk.	জলবায়ু পরিবর্তনের কারণে সমুদ্রপৃষ্ঠের উচ্চতা বাড়ছে। বাংলাদেশের মতো নিচু দেশগুলো আরও বেশি বন্যার মুখোমুখি হচ্ছে। অনেক মানুষকে হয়তো তাদের ঘরবাড়ি ছেড়ে যেতে হবে। এই ঝুঁকি কমাতে কী করা যায় তা সহজ ভাষায় ব্যাখ্যা করো।
+50	long	I have an exam in two weeks. There are five chapters to study. I usually get distracted by my phone. I can study three hours a day. Make a short study plan for me.	দুই সপ্তাহ পর আমার একটি পরীক্ষা আছে। পড়ার জন্য পাঁচটি অধ্যায় আছে। আমি সাধারণত ফোনের কারণে মনোযোগ হারিয়ে ফেলি। আমি দিনে তিন ঘণ্টা পড়তে পারি। আমার জন্য একটি সংক্ষিপ্ত পড়ার পরিকল্পনা তৈরি করো।

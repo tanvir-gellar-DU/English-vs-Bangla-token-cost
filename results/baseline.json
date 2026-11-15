@@ -1,0 +1,23 @@
+{
+  "model": "qwen2.5:3b",
+  "system": "You are a helpful assistant. Answer concisely.",
+  "options": {
+    "temperature": 0,
+    "seed": 42,
+    "num_predict": 256
+  },
+  "overhead_tokens_empty_user_message": 24,
+  "tiny_prompts_input_tokens": {
+    "Hi": 25,
+    "হাই": 27,
+    "Hello": 25,
+    "হ্যালো": 31
+  },
+  "tiny_prompts_content_tokens": {
+    "Hi": 1,
+    "হাই": 3,
+    "Hello": 1,
+    "হ্যালো": 7
+  },
+  "note": "input_tokens in results include this fixed overhead; content_tokens = input_tokens - overhead."
+}

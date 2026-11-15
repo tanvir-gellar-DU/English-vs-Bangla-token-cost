@@ -1,0 +1,221 @@
+id,language,category,prompt,output,input_tokens,content_tokens,output_tokens,cost_usd,latency_s,truncated,done_reason,cache_suspected
+1,english,question,What is the capital of Japan?,The capital of Japan is Tokyo.,31,7,8,9.45e-06,0.4048,False,stop,False
+1,bangla,question,জাপানের রাজধানী কী?,"জাপানের রাজধানী হল ইโ setwাইকো (東京, Tōkyō).
+
+(Important note: As of 2023, Japan's capital city is Tokyo, which is also its largest city and most populous. However, historically, Kyoto was the capital of Japan for many centuries before Tokyo took over this role in the late 19th century.)",45,21,95,6.374999999999999e-05,3.6208,False,stop,False
+2,bangla,question,অধিবর্ষে কত দিন থাকে?,অধিবর্ষে 365 দিন থাকে। যদি সালে সপ্তাহের সমানাংশ থাকে তাহলে এক অধিবর্ষে 52 সপ্তাহ থাকে।,45,21,88,5.955e-05,3.4371,False,stop,False
+2,english,question,How many days are there in a leap year?,There are 366 days in a leap year.,34,10,13,1.2899999999999998e-05,0.5578,False,stop,False
+3,english,question,Who wrote the play Romeo and Juliet?,William Shakespeare wrote the play Romeo and Juliet.,32,8,10,1.08e-05,0.4111,False,stop,False
+3,bangla,question,রোমিও অ্যান্ড জুলিয়েট নাটকটি কে লিখেছেন?,রোমিও অ্যান্ড জুলিয়েট নাটকটি একজন প্রাচীন ইংরেজি ভাষায় লিখেছেন জুলাই শেকেলেট (John Shakespeare). এটি তাঁর জীবনের পরবর্তী দশ বছর এর মধ্যে লিখা হয়েছিল। কিন্তু নাটকটি মার্কিট শেকসপারের হাতে প্রথমবার প্রকাশিত হয়েছিল।,68,44,213,0.000138,8.0961,False,stop,False
+4,bangla,question,কোন গ্রহ সূর্যের সবচেয়ে কাছে?,"সূর্যের সবচেয়ে কাছে কোন গ্রহ হল সূর্য (Solemnity of the Sun). এটি প্রাচীন গ্রীক শব্দ ""Helios"" থেকে বা প্রাচীন ইরানী শব্দ ""Surya"" থেকে বিভিন্ন প্রাচীন ভাষায় বা প্রাচীন বার্ষিক পরিকল্পনায় বা প্রাচীন বিশ্বাবিশ্ববাসী গ্রহণের জন্য ব্যবহৃত হয়েছে। কিন্তু আজ এটি সূ",57,33,256,0.00016214999999999998,9.7738,True,length,False
+4,english,question,Which planet is closest to the Sun?,The planet closest to the Sun is Mercury.,32,8,10,1.08e-05,0.5251,False,stop,False
+5,english,question,What is the largest ocean on Earth?,The largest ocean on Earth is the Pacific Ocean.,32,8,11,1.14e-05,0.631,False,stop,False
+5,bangla,question,পৃথিবীর বৃহত্তম মহাসাগর কোনটি?,পৃথিবীর বৃহত্তম মহাসাগর হল প্যান্টানিয়া।,58,34,46,3.63e-05,1.9365,False,stop,False
+6,bangla,question,আকাশ নীল কেন?,আকাশ নীল হয় কারণ প্রাকৃতিক শক্তি এবং পরিবেশের অবস্থা। নিশ্চিতভাবে নীল হওয়া আকাশের সাথে জলের সম্পর্ক এবং পরিবেশের অবস্থা এই রঙের কারণ হতে পারে। আকাশের সাথে জলের সম্পর্ক বাতাসের মানের সাথে পরিবেশের অবস্থার মধ্যে একটি প্রভাবশীল সম্পর্ক রয়েছে।,38,14,252,0.0001569,9.501,False,stop,False
+6,english,question,Why is the sky blue?,"The sky appears blue because of the Earth's atmosphere scattering sunlight, with blue light being scattered more than other colors due to its shorter wavelength.",30,6,29,2.19e-05,1.1972,False,stop,False
+7,english,question,What language is spoken in Brazil?,The primary language spoken in Brazil is Portuguese.,31,7,10,1.065e-05,0.519,False,stop,False
+7,bangla,question,ব্রাজিলে কোন ভাষায় কথা বলা হয়?,ব্রাজিলিয়াতে কথা বলা হয় রিপাবলিকান ভাষা (রিপাবলিকান ভাষা বা রিপাবলিকান বাংলা) এবং ইউরোপোর্টার ভাষা (ইউরোপোর্টার বাংলা)। এই দুটি ভাষার মধ্যে রিপাবলিকান ভাষা ব্রাজিলিয়াতে বেশি গুরুত্বপূর্ণ।,59,35,201,0.00012945,7.607,False,stop,False
+8,bangla,question,মাকড়সার কয়টি পা আছে?,একটি পা আছে। এটি মানুষের একটি বৈশিষ্ট্য।,48,24,43,3.3e-05,1.751,False,stop,False
+8,english,question,How many legs does a spider have?,A spider has eight legs.,32,8,7,8.999999999999999e-06,0.413,False,stop,False
+9,english,question,What is the boiling point of water at sea level in degrees Celsius?,The boiling point of water at sea level is 100 degrees Celsius.,38,14,17,1.59e-05,0.8511,False,stop,False
+9,bangla,question,সমুদ্রপৃষ্ঠে পানির স্ফুটনাঙ্ক কত ডিগ্রি সেলসিয়াস?,সমুদ্রপৃষ্ঠের পানির স্ফুটনা 36.6°C সেলসিয়াস বা 309.63 K তাপমাত্রা হয়।,78,54,75,5.6699999999999996e-05,3.0732,False,stop,False
+10,bangla,instruction,লাল রঙের তিনটি ফলের নাম লেখো।,"লাল রংের তিনটি ফল:
+
+1. কালোকুমা
+2. কালো কুমারি
+3. কালো কুমোরা",54,30,68,4.8899999999999996e-05,2.8988,False,stop,False
+10,english,instruction,List three fruits that are red.,"1. Strawberry
+2. Raspberry
+3. Cherry",31,7,12,1.185e-05,0.5963,False,stop,False
+11,english,instruction,Write a short greeting for a birthday card.,Happy Birthday!祝你生日快乐！,33,9,9,1.0350000000000001e-05,0.5307,False,stop,False
+11,bangla,instruction,জন্মদিনের কার্ডের জন্য একটি ছোট শুভেচ্ছাবার্তা লেখো।,"আজ তোমার জন্মদিন হয়েছে, তোমার জীবনের একটি প্রতিষ্ঠান। তোমার জীবনের সব সময় শুভ হবে, তোমার জন্য একটি শুভ জীবন। তোমার জন্মদিন সুখী হবে, তোমার জীবন সুখী থাকে।",79,55,175,0.00011685,6.7168,False,stop,False
+12,bangla,instruction,বাড়িতে বিদ্যুৎ সাশ্রয়ের দুটি পরামর্শ দাও।,"1. বিদ্যুৎ সাশ্রয়ের পরিবর্তে বিদ্যুৎ সাফল্য ব্যবস্থা ব্যবহার করুন। এটি বিদ্যুৎ সাশ্রয়ের বিপরীতে বিদ্যুৎ প্রবাহ সম্পর্কে সাফল্য সংক্রান্ত ব্যবস্থা হিসেবে ব্যবহৃত হয়।
+
+2. বিদ্যুৎ সাশ্রয়ের সামগ্রিক সংক্রান্ত পরিবর্তে বিদ্যুৎ সাফল্য ব্যবস্থার",71,47,256,0.00016424999999999998,9.6118,True,length,False
+12,english,instruction,Give two tips for saving electricity at home.,"1. Turn off lights and unplug electronics when not in use.
+2. Use energy-efficient light bulbs and appliances.",33,9,25,1.9949999999999997e-05,1.2066,False,stop,False
+13,english,instruction,Write one sentence describing a rainy day.,"A rainy day is damp and often gloomy, with drops pattering against surfaces.",32,8,18,1.56e-05,0.732,False,stop,False
+13,bangla,instruction,বৃষ্টির দিনের বর্ণনা দিয়ে একটি বাক্য লেখো।,"বৃষ্টির শব্দ ধ্বনিত হল, পাতালে জলের ভরসা বাড়ল।",70,46,50,4.0499999999999995e-05,1.8398,False,stop,False
+14,bangla,instruction,ইউরোপের চারটি দেশের নাম বলো।,"ইউরোপের চারটি প্রধান দেশ:
+
+1. ইংল্যান্ড
+2. ফ্রান্স
+3. জার্মানি
+4. প্যান্টানা",54,30,77,5.43e-05,2.8344,False,stop,False
+14,english,instruction,Name four countries in Europe.,"1. France
+2. Germany
+3. Italy
+4. Spain",30,6,16,1.41e-05,0.6183,False,stop,False
+15,english,instruction,Suggest a name for a pet cat.,Bella,33,9,3,6.75e-06,0.18,False,stop,False
+15,bangla,instruction,একটি পোষা বিড়ালের জন্য একটি নাম প্রস্তাব করো।,বিলাসপুর,73,49,10,1.695e-05,0.6092,False,stop,False
+16,bangla,instruction,বাড়ির কাজ শেষ করার জন্য শিক্ষকের কাছে আরও সময় চেয়ে একটি বিনীত বাক্য লেখো।,শিক্ষক প্রিয়omat বাড়ির কাজ শেষ করার জন্য আরও সময় চাও তা বোঝাই যায়।,105,81,74,6.015e-05,2.7724,False,stop,False
+16,english,instruction,Write a polite sentence asking a teacher for more time to finish homework.,Could I please have some more time to complete my homework?,38,14,13,1.35e-05,0.6083,False,stop,False
+17,english,instruction,List the days of the week.,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",31,7,14,1.3049999999999999e-05,0.5372,False,stop,False
+17,bangla,instruction,সপ্তাহের দিনগুলোর নাম লেখো।,"সপ্তাহের দিনগুলোর নাম হল:
+1. সUNDAY
+2. MONDAY
+3. TUESDAY
+4. WEDNESDAY
+5. THURSDAY
+6. FRIDAY
+7. SATURDAY",54,30,71,5.07e-05,2.8354,False,stop,False
+18,bangla,explanation,এক বাক্যে কম্পিউটার ভাইরাস কী তা ব্যাখ্যা করো।,ভাইরাস হল কম্পিউটারে থাকা একটি অস্ত্রীয় বুদ্ধিমত্তা যা কম্পিউটারের ফাইড ও প্রোগ্রাম সংক্রান্ত অস্ত্রীয় কাজ করে।,72,48,121,8.340000000000001e-05,4.7054,False,stop,False
+18,english,explanation,Explain what a computer virus is in one sentence.,"A computer virus is a malicious software program that replicates itself and spreads to other files or systems, often causing damage or disrupting normal operations.",35,11,29,2.2649999999999998e-05,1.2342,False,stop,False
+19,english,explanation,Briefly explain why we need to sleep.,"Sleep is essential for physical recovery, memory consolidation, mood regulation, and maintaining overall health and cognitive function.",33,9,22,1.815e-05,0.9109,False,stop,False
+19,bangla,explanation,সংক্ষেপে ব্যাখ্যা করো কেন আমাদের ঘুমের প্রয়োজন।,"আমাদের ঘুম প্রয়োজন কারণ এটা আমাদের শরীরকে স্থায়ীভাবে চিকিত্সা করে এবং নিরামিষ হওয়ার জন্য আবেগ প্রদান করে। এছাড়াও, ঘুম আমাদের শিকারী শরীরকে প্রতিরোধ করে এবং আরও কম শোষণ প্রয়োজন হয়।",77,53,204,0.00013395,8.0991,False,stop,False
+20,bangla,explanation,থার্মোমিটার কী পরিমাপ করে? সংক্ষেপে ব্যাখ্যা করো।,থার্মোমিটার পরিসংখ্যান করে শরীরের তাপমাত্রা (থার্মোস্পেস) পরিমাপ করে।,77,53,73,5.5350000000000004e-05,2.7243,False,stop,False
+20,english,explanation,What does a thermometer measure? Explain briefly.,"A thermometer measures temperature, typically in degrees Celsius, Fahrenheit, or Kelvin.",33,9,16,1.455e-05,0.6553,False,stop,False
+21,english,explanation,Explain the difference between weather and climate in two sentences.,"Weather refers to short-term atmospheric conditions in a location, while climate describes the long-term average of weather conditions in a place.",36,12,26,2.1e-05,1.0698,False,stop,False
+21,bangla,explanation,দুই বাক্যে আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য ব্যাখ্যা করো।,"প্রথম বাক্য: ""আবহাওয়া জলবায়ুর একটি প্রকার।""
+প্রথম বাক্যে আবহাওয়া জলবায়ুর একটি অংশ বা প্রকার বলে ব্যাখ্যা করা হয়েছে।
+
+দ্বিতীয় বাক্য: ""আবহাওয়া ও জলবায়ু পার্থক্য রয়েছে।""
+দ্বিতীয় বাক্যে আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য বর্ণনা করা হয়",88,64,256,0.0001668,9.8329,True,length,False
+22,bangla,explanation,রংধনু কীভাবে তৈরি হয় তা ব্যাখ্যা করো।,রংধনু তৈরির পদ্ধতি বিভিন্ন প্রকারে বিতরণ করা হয়। এটি সাধারণত একটি বড় বৃক্ষের মাধ্যমে কাজ করে। বৃক্ষটি প্রথমে বিনামূল্যে কিনা বা কোন প্রকার প্রস্তুতি পাঠানা হয়। পরে বৃক্ষটি বিশাল হয় এবং তার মাঝে মাঝে একটি বড় বৃক্ষের মাধ্যমে বিতরণ করা হয,68,44,256,0.0001638,9.5513,True,length,False
+22,english,explanation,Explain how a rainbow forms.,"A rainbow forms when sunlight passes through water droplets in the air, such as rain or fog. The light is refracted (bent), then reflected internally within the droplet, and finally refracted again as it exits the droplet. Different colors of light are refracted by slightly different angles, creating the spectrum of colors we see in a rainbow.",31,7,73,4.845e-05,2.7133,False,stop,False
+23,english,explanation,Briefly explain what inflation means.,Inflation is a general increase in prices and fall in the purchasing value of money.,31,7,18,1.545e-05,0.7225,False,stop,False
+23,bangla,explanation,মুদ্রাস্ফীতি বলতে কী বোঝায় তা সংক্ষেপে ব্যাখ্যা করো।,মুদ্রাস্ফীতি হল একটি রাজনৈরি যা ব্যবহারিকাদের মুদ্রা ব্যবহারের সামরিক বা পরিবর্তনশীল সীমাবদ্ধতা বা সামগ্রিক বিনিময়ের ফলে বিস্তারিত হয়।,85,61,145,9.975e-05,5.6653,False,stop,False
+24,bangla,explanation,উদ্ভিদের কেন সূর্যালোক প্রয়োজন তা ব্যাখ্যা করো।,উদ্ভিদের সূর্যালোক প্রয়োজন হলো যে সূর্যালোকে উদ্ভিদগুলি উৎপাদন এবং প্রজনন করতে পারে। সূর্যালোক উদ্ভিদের শিল্পনা ও প্রজননের প্রয়োজনীয় একটি পদার্থ হিসেবে বিবেচিত হয়। এটি উদ্ভিদের শিল্পনা ও প্রজননের জন্য প্রয়োজনীয় এবং এটি উদ্ভিদের জ,77,53,256,0.00016515,9.5426,True,length,False
+24,english,explanation,Explain why plants need sunlight.,"Plants need sunlight because it is the primary source of energy for photosynthesis, the process by which they produce food using sunlight, carbon dioxide, and water. Sunlight provides the energy required to convert carbon dioxide and water into glucose, which the plant uses for energy and growth.",31,7,57,3.8849999999999996e-05,2.0915,False,stop,False
+25,english,explanation,Explain to a child what the internet is.,"The internet is like a big playground where people from all over the world can share fun things like games, stories, and videos. It's like having a friend in every corner of the world who you can talk to or play with through computers and phones.",34,10,52,3.63e-05,2.0297,False,stop,False
+25,bangla,explanation,একটি শিশুকে ইন্টারনেট কী তা বুঝিয়ে বলো।,"শিশুকে ইন্টারনেট বুঝিয়ে বলা যায় এটা হল একটি বিষয় বা জায়গা যেখানে বিভিন্ন তথ্য আছে এবং তা ব্যবহার করে বিভিন্ন কিছু করা যায়। ইন্টারনেটে কিছু করা যায়: বই পড়া, কোড লিখা, কিছু খাওয়া, কিছু খাটা, কিছু খাটার জন্য তথ্য পাওয়া এবং বিভিন্ন",70,46,256,0.0001641,9.6432,True,length,False
+26,bangla,arithmetic,১৫ + ২৭ কত?,"১৫ + ২৭ = ৪২
+
+This is a simple addition problem in the Bengali numeral system. In English, the sum is 42.",38,14,41,3.0299999999999998e-05,1.7012,False,stop,False
+26,english,arithmetic,What is 15 + 27?,15 + 27 = 42,34,10,11,1.17e-05,0.492,False,stop,False
+27,english,arithmetic,What is 144 divided by 12?,12,36,12,3,7.2e-06,0.19,False,stop,False
+27,bangla,arithmetic,১৪৪ কে ১২ দিয়ে ভাগ করলে কত হয়?,১৪৪ কে ১২ দিয়ে ভাগ করলে ১২ হয়।,63,39,42,3.465e-05,1.8613,False,stop,False
+28,bangla,arithmetic,৮ গুণ ৭ কত?,৮ গুণ ৭ = 56,38,14,15,1.47e-05,0.7009,False,stop,False
+28,english,arithmetic,What is 8 times 7?,8 times 7 is 56.,32,8,10,1.08e-05,0.434,False,stop,False
+29,english,arithmetic,"If I have 20 apples and give away 6, how many are left?",You would have 14 apples left.,42,18,10,1.23e-05,0.3782,False,stop,False
+29,bangla,arithmetic,"আমার কাছে ২০টি আপেল আছে, ৬টি দিয়ে দিলে কয়টি থাকবে?",আপেল 6টি দিয়ে দিলে আপেল 14টি থা�কবে।,81,57,38,3.4949999999999996e-05,1.4301,False,stop,False
+30,bangla,arithmetic,২০০-এর ২৫% কত?,2000 का 25% = 500,43,19,16,1.605e-05,0.7084,False,stop,False
+30,english,arithmetic,What is 25% of 200?,50,36,12,3,7.2e-06,0.1873,False,stop,False
+31,english,arithmetic,A pen costs 12 taka. How much do 5 pens cost?,5 pens cost 60 taka.,41,17,10,1.215e-05,0.4771,False,stop,False
+31,bangla,arithmetic,একটি কলমের দাম ১২ টাকা। ৫টি কলমের দাম কত?,5টি কলমের দাম হবে 60 টাকা।,68,44,27,2.6399999999999998e-05,1.2296,False,stop,False
+32,bangla,arithmetic,৯-এর বর্গ কত?,"9-এর বর্গ (9²) = 81
+
+81",38,14,21,1.8299999999999998e-05,0.8941,False,stop,False
+32,english,arithmetic,What is the square of 9?,The square of 9 is 81.,32,8,11,1.14e-05,0.4851,False,stop,False
+33,english,arithmetic,A train travels 60 km per hour. How far does it go in 3 hours?,The train travels 180 km in 3 hours.,44,20,14,1.4999999999999999e-05,0.5493,False,stop,False
+33,bangla,arithmetic,একটি ট্রেন ঘণ্টায় ৬০ কিমি যায়। ৩ ঘণ্টায় এটি কত দূর যাবে?,"একটি ট্রেন ঘণ্টায় 60 কিমি যায়, তাহলে 3 ঘণ্টায় তার যান দূরত্ব হবে 60 * 3 = 180 কিমি।",90,66,89,6.69e-05,3.3002,False,stop,False
+34,bangla,arithmetic,১০০০ থেকে ৩৫৭ বিয়োগ করলে কত হয়?,"১০০০ - ৩৫৭ = ৬৪৩
+
+প্রদত্ত সংখ্যা থেকে যোগফল বিয়োগ করলে যোগফল ৬৪৩ হয়।",67,43,87,6.225e-05,3.4039,False,stop,False
+34,english,arithmetic,What is 1000 minus 357?,643,37,13,4,7.95e-06,0.2304,False,stop,False
+35,english,summarise,Summarise in a few words: “The meeting was postponed until next Monday because the manager was ill.”,Meeting postponed due to manager's illness.,46,22,9,1.23e-05,0.4617,False,stop,False
+35,bangla,summarise,কয়েক শব্দে সারাংশ লেখো: “ম্যানেজার অসুস্থ থাকায় সভাটি আগামী সোমবার পর্যন্ত স্থগিত করা হয়েছে।”,ম্যানেজারের অসুস্থতা সভার পরিষেবা আগামী সোমবার পর্যন্ত স্থগিত থাকবে।,126,102,72,6.209999999999999e-05,2.6787,False,stop,False
+36,bangla,summarise,এই বাক্যটির সারাংশ লেখো: “ভারী বৃষ্টিতে শহরের কয়েকটি রাস্তা প্লাবিত হয়েছে এবং সেদিন স্কুলগুলো বন্ধ ছিল।”,ভারী বৃষ্টি বাটনের প্লাবিত হয়ে শহরের কয়েকটি রাস্তা এবং সেদিন স্কুলগুলো বন্ধ ছিল।,138,114,91,7.53e-05,3.3494,False,stop,False
+36,english,summarise,"Summarise this sentence: “Heavy rain flooded several streets in the city, and schools were closed for the day.”","Heavy rain flooded streets, closing schools for the day.",48,24,12,1.44e-05,0.5604,False,stop,False
+37,english,summarise,Summarise: “The new library has more than ten thousand books and is open every day except Friday.”,The new library has over ten thousand books and is open daily except Friday.,46,22,16,1.65e-05,0.7258,False,stop,False
+37,bangla,summarise,সারাংশ লেখো: “নতুন গ্রন্থাগারে দশ হাজারেরও বেশি বই আছে এবং এটি শুক্রবার ছাড়া প্রতিদিন খোলা থাকে।”,নতুন গ্রন্থাগারে দশ হাজারেরও বেশি বই রয়েছে এবং এটি শুক্রবার ছাড়া প্রতিদিন খোলা থাকে।,127,103,93,7.484999999999999e-05,3.4804,False,stop,False
+38,bangla,summarise,এক লাইনে সারাংশ দাও: “কয়েক মাস অনুশীলনের পর দলটি অবশেষে জাতীয় ফুটবল চ্যাম্পিয়নশিপ জিতেছে।”,দলটি কয়েক মাস অনুশীলন করে জাতীয় ফুটবল চ্যাম্পিয়নশিপ জিতেছে।,123,99,70,6.044999999999999e-05,2.599,False,stop,False
+38,english,summarise,"Give a one-line summary: “After months of practice, the team finally won the national football championship.”",The team won the national football championship after months of practice.,45,21,13,1.455e-05,0.5929,False,stop,False
+39,english,summarise,Summarise this sentence: “Doctors recommend drinking enough water and walking for thirty minutes every day.”,Doctors suggest drinking enough water and walking for 30 minutes daily.,44,20,15,1.56e-05,0.6638,False,stop,False
+39,bangla,summarise,এই বাক্যটির সারাংশ লেখো: “চিকিৎসকেরা প্রতিদিন পর্যাপ্ত পানি পান এবং ত্রিশ মিনিট হাঁটার পরামর্শ দেন।”,চিকিৎসকরা প্রতিদিন পানি পান এবং ত্রিশ মিনিট হাঁটার পরামর্শ দেন.,125,101,65,5.7749999999999994e-05,2.4275,False,stop,False
+40,bangla,summarise,সারাংশ লেখো: “শিক্ষার্থী ও তরুণ কর্মীদের আকৃষ্ট করতে কোম্পানিটি একটি সস্তা ফোন বাজারে এনেছে।”,"""কোম্পানি শিক্ষার্থী ও তরুণ কর্মীদের আকৃষ্ট করতে এনেছে একটি সস্তা ফোন বাজার।""",123,99,84,6.884999999999999e-05,3.1441,False,stop,False
+40,english,summarise,Summarise: “The company launched a cheaper phone to attract students and young workers.”,The company introduced an affordable phone model to target students and young workers.,42,18,15,1.53e-05,0.6728,False,stop,False
+41,english,summarise,"Summarise in five words or fewer: “The bridge was closed for repairs, so drivers had to take a longer route.”","Bridge closed, longer detour.",50,26,8,1.2299999999999999e-05,0.3085,False,stop,False
+41,bangla,summarise,পাঁচ বা তার কম শব্দে সারাংশ লেখো: “মেরামতের জন্য সেতুটি বন্ধ থাকায় চালকদের দীর্ঘ পথ ঘুরে যেতে হয়েছে।”,"""সেতু বন্ধ, চালকদের দীর্ঘ পথ ঘুরে যায়।""",132,108,45,4.68e-05,1.6601,False,stop,False
+42,bangla,summarise,এই বাক্যটির সারাংশ লেখো: “গ্রামের কৃষকেরা শুষ্ক মৌসুমে জমিতে সেচ দিতে সৌরচালিত পাম্প ব্যবহার করছেন।”,কৃষকরা শুষ্ক মৌসুমে পাম্প ব্যবহারে জমিতে সেচ দেন।,129,105,54,5.175e-05,2.0298,False,stop,False
+42,english,summarise,Summarise this sentence: “Farmers in the village are using solar pumps to water their fields during the dry season.”,Farmers use solar pumps to irrigate fields during the dry season.,49,25,15,1.635e-05,0.6727,False,stop,False
+43,english,long,"I am planning a trip to Cox's Bazar next month. I will stay for three days with my family. We want to see the beach and try local seafood. What should we pack, and what should we be careful about?","For your trip to Cox's Bazar with your family, here are some packing and safety tips:
+
+**Packing:**
+1. **Clothing:** Pack light, breathable clothing suitable for beach activities. Include a swimsuit, cover-ups, and casual clothes for exploring.
+2. **Footwear:** Sandals or flip-flops are essential for the beach. Also, consider wearing comfortable walking shoes for exploring.
+3. **Sun Protection:** Sunscreen, sunglasses, and a hat are crucial for protecting against the sun.
+4. **Hydration:** Water bottles and a reusable water bottle are important, especially if you plan to spend time outdoors.
+5. **Snacks:** Pack some snacks for the beach and during walks.
+6. **First Aid Kit:** Include basic items like band-aids, antiseptic wipes, and any personal medications.
+7. **Travel Documents:** Ensure you have all necessary travel documents and visas.
+8. **Local Currency:** Bring some local currency for small purchases.
+
+**Safety Tips:**
+1. **Beach Safety:** Always swim in designated areas and be cautious of strong currents.
+2. **Local Customs:** Be respectful of local customs and traditions.
+3. **Food Safety:** Try local seafood, but ensure it is cooked thoroughly to",71,47,256,0.00016424999999999998,9.7892,True,length,False
+43,bangla,long,আমি আগামী মাসে কক্সবাজার ভ্রমণের পরিকল্পনা করছি। আমি পরিবারের সঙ্গে তিন দিন থাকব। আমরা সমুদ্রসৈকত দেখতে এবং স্থানীয় সামুদ্রিক খাবার খেতে চাই। আমাদের কী কী সঙ্গে নেওয়া উচিত এবং কোন বিষয়ে সতর্ক থাকা উচিত?,"আপনার প্রস্তাবিত ভ্রমণ পরিকল্পনায় নিম্নলিখিত বিষয়গুলি সম্পর্কে সতর্কতা করা উচিত:
+
+1. সমুদ্রসৈ দেখা: আপনি সমুদ্রসৈ সম্পর্কে সাহায্য করতে পারেন যে সেগুলি আপনার স্থানীয় সামুদ্রিক খাবার সংগ্রহ করার জন্য উপযোগী হবে। সমুদ্রসৈ সম্পর্কে সাহায্য কর",242,218,256,0.0001899,9.5273,True,length,False
+44,bangla,long,আমার ছোট ভাই আগামী সপ্তাহে স্কুলে যাওয়া শুরু করবে। সে ভয় পাচ্ছে এবং যেতে চাইছে না। সে ছবি আঁকতে আর ফুটবল খেলতে পছন্দ করে। আমি কীভাবে তাকে আরও আত্মবিশ্বাসী হতে সাহায্য করতে পারি?,"আপনার ছোট ভাইকে আরও আত্মবিশ্বাসী করতে পারেন এভাবে:
+
+1. তাকে স্কুলে যাওয়ার জন্য একটি সময় ব্যবস্থা করুন।
+
+2. তাকে স্কুলে যাওয়ার জন্য একটি সুন্দর প্রচার করুন।
+
+3. তাকে স্কুলে যাওয়ার জন্য একটি সাবেকসর প্রশ্ন করুন।
+
+4. তাকে স্কুলে যাওয়ার জন্য একট",215,191,256,0.00018585,9.5328,True,length,False
+44,english,long,My little brother is starting school next week. He is nervous and does not want to go. He likes drawing and playing football. How can I help him feel more confident?,"You can help him feel more confident by preparing him for school, such as going over his schedule and classroom layout. Encourage him to draw pictures of his new classroom or classmates. Additionally, remind him of his strengths, like his love for drawing and playing football, and how these skills can be useful in school. You could also plan a visit to his school to meet his teacher and classmates, which can reduce anxiety.",59,35,85,5.985e-05,3.2948,False,stop,False
+45,english,long,A shop sells rice for 60 taka per kilogram. Rahim buys 5 kilograms and pays with a 500 taka note. The shopkeeper gives him change. How much change does Rahim get? Show your steps.,"To find out how much change Rahim gets, we need to follow these steps:
+
+1. Calculate the total cost of 5 kilograms of rice.
+2. Subtract the total cost from the 500 taka note Rahim paid with.
+
+Step 1: Calculate the total cost of 5 kilograms of rice.
+- Cost per kilogram = 60 taka
+- Quantity = 5 kilograms
+- Total cost = 60 taka/kg * 5 kg = 300 taka
+
+Step 2: Subtract the total cost from the 500 taka note.
+- Amount paid = 500 taka
+- Total cost = 300 taka
+- Change = 500 taka - 300 taka = 200 taka
+
+Therefore, Rahim gets 200 taka as change.",75,51,185,0.00012225,6.8811,False,stop,False
+45,bangla,long,একটি দোকানে চাল প্রতি কেজি ৬০ টাকায় বিক্রি হয়। রহিম ৫ কেজি চাল কেনে এবং ৫০০ টাকার একটি নোট দেয়। দোকানদার তাকে বাকি টাকা ফেরত দেয়। রহিম কত টাকা ফেরত পায়? ধাপগুলো দেখাও।,"রহিম কেনেনো চালের মূল্য 300 টাকা। তার পরে রহিম দিয়ে যায় 500 টাকা। তাই রহিম কেনেনো চালের বাকি মূল্য 200 টাকা হবে।
+
+ধাপগুলো:
+1. চালের মূল্য নির্ধারণ: 60 টাকা/কেজি × 5 কেজি = 300 টাকা
+2. রহিম দিয়ে যায়: 500 টাকা
+3. বাকি মূল্য: 500 টাকা - 300 টাকা = 2",213,189,256,0.00018554999999999998,9.5474,True,length,False
+46,bangla,long,"আমি ব্যায়াম শুরু করতে চাই, কিন্তু প্রতিদিন সকালে আমার হাতে মাত্র বিশ মিনিট সময় থাকে। বাড়িতে আমার কোনো ব্যায়ামের সরঞ্জাম নেই। আমার হাঁটুতে একটু ব্যথাও আছে। আমার জন্য একটি সহজ রুটিন প্রস্তাব করো।","আপনার জন্য একটি সহজ রুটিন হল:
+
+1. সকালে হাত বাঁধে রাখা একটি বোর্ড বা টেক্সটাইপ করে একটি পাতা করুন।
+2. একটি বোর্ডে একটি ব্যায়াম করার জন্য সময় বসানোর জন্য একটি স্কেল বা টাইম ম্যানেজমেন্ট টাইম বোর্ড ব্যবহার করুন।
+3. প্রতিদিন একটি ব্যায়াম করার জন্য",235,211,256,0.00018884999999999998,9.9558,True,length,False
+46,english,long,"I want to start exercising, but I only have twenty minutes each morning. I do not have any equipment at home. I also have a slight knee pain. Suggest a simple routine for me.","For your 20-minute morning exercise routine with knee pain, you can try a combination of bodyweight exercises and low-impact activities. Here’s a simple routine:
+
+1. **Jumping Jacks** (30 seconds) - Warm-up to get your blood flowing.
+2. **Mountain Climbers** (30 seconds) - Great for core and leg strength.
+3. **Push-Ups** (30 seconds) - Modify by doing knee push-ups if your knees are sore.
+4. **Plank** (30 seconds) - Focus on keeping your core tight to avoid putting too much strain on your knees.
+5. **High Knees** (30 seconds) - To increase heart rate and leg strength.
+6. **Leg Raises** (30 seconds) - To strengthen your lower body without putting too much stress on your knees.
+
+Remember to listen to your body and adjust the intensity and duration as needed. If knee pain persists, consider consulting a healthcare professional.",64,40,203,0.0001314,7.8643,False,stop,False
+47,english,long,"Read the text and answer the question. Mina has a small garden. She grows tomatoes, chillies and spinach. Last week, goats ate most of her spinach. Which vegetable did Mina lose?",Mina lost her spinach.,65,41,7,1.395e-05,0.3096,False,stop,False
+47,bangla,long,"লেখাটি পড়ে প্রশ্নের উত্তর দাও। মিনার একটি ছোট বাগান আছে। সে টমেটো, মরিচ আর পালংশাক চাষ করে। গত সপ্তাহে ছাগল তার বেশিরভাগ পালংশাক খেয়ে ফেলেছে। মিনা কোন সবজিটি হারিয়েছে?",মিনা পালংশাক হারিয়েছে। এটি ছোট বাগানে তিনি চাষ করেছিলেন এবং তার ছাগল তার বেশিরভাগ পালংশাক খেয়ে ফেলেছিল।,202,178,112,9.749999999999998e-05,4.3813,False,stop,False
+48,bangla,long,"আমাদের অফিস কাগজের ব্যবহার কমাতে চায়। অনেক কর্মী এখনও প্রতিটি ইমেইল প্রিন্ট করেন। আমাদের একটি শেয়ারড ড্রাইভ আছে, কিন্তু খুব কম মানুষ তা ব্যবহার করেন। আমরা চালু করতে পারি এমন তিনটি ছোট নিয়ম লেখো।","1. ইমেইল প্রিন্ট নিয়ন্দরণ করা যাতে প্রতিটি ইমেইল বা প্রিন্ট করা যায় না।
+2. শেয়ারড ড্রাইভের ব্যবহার বাড়ানো যাতে কর্মীরা বেশি শেয়ারড ড্রাইভে প্রিন্ট করেন।
+3. কাগজের ব্যবহার নিয়ন্দরণ করা যাতে কর্মীরা কম কাগজ ব্যবহার করেন।",231,207,234,0.00017505,8.7506,False,stop,False
+48,english,long,"Our office wants to reduce paper use. Many staff still print every email. We have a shared drive, but few people use it. Write three short rules we could introduce.","1. Use the shared drive for document storage and sharing to reduce individual printing.
+2. Print only when absolutely necessary, such as for important reports or sensitive documents.
+3. Set default email settings to not automatically send emails as PDFs, encouraging digital communication.",59,35,53,4.065e-05,1.9871,False,stop,False
+49,english,long,Climate change is causing sea levels to rise. Low-lying countries like Bangladesh face more floods. Many people may have to leave their homes. Explain in simple words what can be done to reduce this risk.,"To reduce the risk, countries can:
+
+1. Plant more trees to absorb carbon dioxide.
+2. Build sea walls and protect coastal areas.
+3. Raise buildings in flood-prone areas.
+4. Improve drainage systems in cities.
+5. Protect wetlands to act as natural barriers.
+6. Use climate-resilient crops.
+7. Train people in disaster response and early warning systems.",65,41,79,5.715e-05,2.975,False,stop,False
+49,bangla,long,জলবায়ু পরিবর্তনের কারণে সমুদ্রপৃষ্ঠের উচ্চতা বাড়ছে। বাংলাদেশের মতো নিচু দেশগুলো আরও বেশি বন্যার মুখোমুখি হচ্ছে। অনেক মানুষকে হয়তো তাদের ঘরবাড়ি ছেড়ে যেতে হবে। এই ঝুঁকি কমাতে কী করা যায় তা সহজ ভাষায় ব্যাখ্যা করো।,জলবায়ু পরিবর্তনের কারণে বাংলাদেশের মতো নিচু দেশগুলোতে বন্যা বেড়ে ওঠে। এটি ঘরবাড়ি ছেড়ে যাওয়ার কারণ। এটি কমাতে পারদর্শীরা জলবায়ু পরিবর্তনের সমাধান পেতে পারেন। সমস্যার সমাধানে বিদেশী সাহিত্যিক ও বিজ্ঞানীদের সাহায্য লাভ করতে পারেন।,264,240,250,0.0001896,9.5598,False,stop,False
+50,bangla,long,দুই সপ্তাহ পর আমার একটি পরীক্ষা আছে। পড়ার জন্য পাঁচটি অধ্যায় আছে। আমি সাধারণত ফোনের কারণে মনোযোগ হারিয়ে ফেলি। আমি দিনে তিন ঘণ্টা পড়তে পারি। আমার জন্য একটি সংক্ষিপ্ত পড়ার পরিকল্পনা তৈরি করো।,"প্রস্তাবিত পড়ার পরিকল্পনা:
+
+1. পরীক্ষার পর দুই দিন পড়ার জন্য সংক্ষিপ্ত পরিকল্পনা করুন।
+2. প্রথম দিনে পাঁচটি অধ্যায় পড়ুন।
+3. দুই দিনের মধ্যে একটি অধ্যায় প্রশ্ন প্রস্তাবিত করুন এবং সমাধান করুন।
+4. তৃতীয় দিনে প্রথম দুই অধ্যায়ের সম্পর্ক",231,207,256,0.00018825,9.8293,True,length,False
+50,english,long,I have an exam in two weeks. There are five chapters to study. I usually get distracted by my phone. I can study three hours a day. Make a short study plan for me.,"Here's a concise study plan for you:
+
+Day 1-4: Chapter 1 (3 hours)
+Day 5-8: Chapter 2 (3 hours)
+Day 9-12: Chapter 3 (3 hours)
+Day 13-16: Chapter 4 (3 hours)
+Day 17-20: Chapter 5 (3 hours)
+Day 21-24: Review and practice (3 hours)
+
+Ensure to allocate some time each day for short breaks and to check your phone only during these breaks.",63,39,115,7.845e-05,4.4106,False,stop,False

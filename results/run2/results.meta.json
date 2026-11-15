@@ -1,0 +1,16 @@
+{
+  "model": "qwen2.5:3b",
+  "ollama_version": "0.40.16",
+  "system": "You are a helpful assistant. Answer concisely.",
+  "options": {
+    "temperature": 0,
+    "seed": 42,
+    "num_predict": 256
+  },
+  "overhead_tokens": 24,
+  "calls": 100,
+  "wall_time_s": 314.0,
+  "started": "2026-11-14 11:33:07",
+  "truncated_calls": 12,
+  "cache_suspected_calls": 0
+}
